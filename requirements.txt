@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+catboost
+autogluon.tabular
+tensorflow
+scikit-optimize
+statsmodels
+pmdarima
+joblib
+shap
+optuna
